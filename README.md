@@ -37,6 +37,13 @@
 
 </a>
 
+### v0.0.2-20241102
+
+- Ajustes da página principal.
+- Mudanças na importação das cores.
+- Criado o componente para o card.
+- Estilização do card.
+
 ### v0.0.1-20241102
 
 - Organização das pastas e subpastas do projeto.

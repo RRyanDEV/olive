@@ -1,7 +1,8 @@
 export const colors = {
   palette: {
-    background: "#1c1c1c",
-    primary: "#01411C",
-    primaryTitle: "#FFF",
+    100: "#1E1E24",
+    200: "#01411C",
+    300: "#FFF",
+    400: "#71717A",
   },
 };
