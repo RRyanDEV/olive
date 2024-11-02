@@ -7,7 +7,7 @@
 <div align="center">
   <h3 align="center">Olive</h3>
   <p align="center">
-    Aplicativo de gerenciamento e sincrozinação de arquivos.
+    Aplicativo de gerenciamento e sincronização de arquivos.
     <br />
     <br />
     <a href="#notas-de-versão">Notas de Versão</a>
